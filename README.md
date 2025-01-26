@@ -6,7 +6,7 @@ Mini vMac emulator in JavaScript and WebAssembly.
 
 ## Web:
 
-https://lrusso.github.io/MinivMac/MinivMac.htm
+https://itsyobestnugget.github.io/MinivMac_but_mine/
 
 ## Based on the work of:
 
